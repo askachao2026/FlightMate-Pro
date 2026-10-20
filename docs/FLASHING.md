@@ -1,4 +1,4 @@
-﻿# 刷机说明 / Flashing Guide
+# 刷机说明 / Flashing Guide
 
 ## 适用设备
 

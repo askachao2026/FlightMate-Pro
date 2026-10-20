@@ -1,4 +1,4 @@
-﻿# Firmware
+# Firmware
 
 | File | Size | SHA-256 |
 | --- | ---: | --- |

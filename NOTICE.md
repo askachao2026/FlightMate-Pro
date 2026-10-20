@@ -1,4 +1,4 @@
-﻿# NOTICE
+# NOTICE
 
 Flight Mate Pro is based on the FoloToy AI Passport project:
 

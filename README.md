@@ -1,4 +1,4 @@
-﻿# Flight Mate Pro
+# Flight Mate Pro
 
 ![Flight Mate Pro 界面总览](docs/images/overview.png)
 
